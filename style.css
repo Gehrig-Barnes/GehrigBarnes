@@ -116,3 +116,21 @@ body {
         opacity: 0;
     }
 }
+
+.about {
+    background: linear-gradient(to left, #ee0f0f, #f57575);
+    width: 100%;
+     height: 100vh;
+}
+
+.portfolio {
+    background: linear-gradient(to left, #da0fec, #f175eb);
+    width: 100%;
+     height: 100vh;
+}
+
+.contact {
+    background: linear-gradient(to left, #f3cb18, #faec9f);
+    width: 100%;
+     height: 100vh;
+}
