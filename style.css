@@ -9,6 +9,7 @@ body {
  .bio {
      width: 100%;
      position: absolute;
+     
  }
 
  .bio ul {
@@ -21,6 +22,7 @@ body {
      text-transform: uppercase;
      color: #fff;
      font-size: 20px;
+     cursor: pointer;
  }
 
  .bio h2 {
